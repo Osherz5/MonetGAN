@@ -1,0 +1,4 @@
+* Monet Image Generation With GANs
+In this project, we will attempt to generate images in the style of Monet.
+We will be using the generative adversarial networks architecture, consisting of a generator and discriminator.
+We will observ the training process through generated image and explore both vanilla GAN network and DCGAN.
